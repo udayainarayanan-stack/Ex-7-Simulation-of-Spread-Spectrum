@@ -59,7 +59,7 @@ bpsk_waveform = chip_samples * carrier
 #  PLOTS
 
 plt.figure(figsize=(10,8))
-plt.suptitle("NAME : Muzammil Sahul K\nREG NO : 212224060162",fontsize=12,fontweight='bold')
+
 
 # Spread signal
 plt.subplot(2,1,1)
